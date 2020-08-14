@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xLhrXcOdrU7/ofyR84EMPqVhNn2BF/zedsGcwkrtdaG9vDdO2klSl3BfpFILIDBNUcF4LbY+nZNoU7R0us7BGQ==",
+  "dgSpecHash": "YhVrHSPx/SnTbXg5EbAQSRk1x3NIs1SanDmuWZpgaHAD0RxgX2PrKqQnLm8a1CidlqK+cYRwkPuMicnUC2e7Hw==",
   "success": true,
-  "projectFilePath": "C:\\CODE\\SolarCoffee\\sollarCoffee.BackEnd\\SolarCoffee.Services\\SolarCoffee.Services.csproj",
+  "projectFilePath": "C:\\CODE\\SolarCoffee\\solarcoffee.backend\\SolarCoffee.Services\\SolarCoffee.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\SolarCoffee\\sollarCoffee.BackEnd\\SolarCoffee.Services\\SolarCoffee.Services.csproj": {}
+    "C:\\CODE\\SolarCoffee\\solarcoffee.backend\\SolarCoffee.Services\\SolarCoffee.Services.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\SolarCoffee\\sollarCoffee.BackEnd\\SolarCoffee.Services\\SolarCoffee.Services.csproj": {
+    "C:\\CODE\\SolarCoffee\\solarcoffee.backend\\SolarCoffee.Services\\SolarCoffee.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\SolarCoffee\\sollarCoffee.BackEnd\\SolarCoffee.Services\\SolarCoffee.Services.csproj",
+        "projectUniqueName": "C:\\CODE\\SolarCoffee\\solarcoffee.backend\\SolarCoffee.Services\\SolarCoffee.Services.csproj",
         "projectName": "SolarCoffee.Services",
-        "projectPath": "C:\\CODE\\SolarCoffee\\sollarCoffee.BackEnd\\SolarCoffee.Services\\SolarCoffee.Services.csproj",
+        "projectPath": "C:\\CODE\\SolarCoffee\\solarcoffee.backend\\SolarCoffee.Services\\SolarCoffee.Services.csproj",
         "packagesPath": "C:\\Users\\Wilsonaves\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\SolarCoffee\\sollarCoffee.BackEnd\\SolarCoffee.Services\\obj\\",
+        "outputPath": "C:\\CODE\\SolarCoffee\\solarcoffee.backend\\SolarCoffee.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
