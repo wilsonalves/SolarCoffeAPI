@@ -124,3 +124,5 @@ C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Web\obj\Debug\netcoreapp3.1\
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Web\obj\Debug\netcoreapp3.1\SolarCoffee.Web.dll
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Web\obj\Debug\netcoreapp3.1\SolarCoffee.Web.pdb
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Web\obj\Debug\netcoreapp3.1\SolarCoffee.Web.genruntimeconfig.cache
+C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Web\bin\Debug\netcoreapp3.1\SolarCoffee.Services.dll
+C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Web\bin\Debug\netcoreapp3.1\SolarCoffee.Services.pdb
