@@ -12,7 +12,7 @@ namespace SolarCoffee.Services.Inventory
         public ServiceResponse<ProductInventory> UpdatedUnitsAvailable(int id, int adjustment);
 
         public ProductInventory GetByProductId(int productID);
-        public void CreateSnapshot();
+       
 
         public List<ProductInventorySnapshot> GetSnapshotHistory();
     }
