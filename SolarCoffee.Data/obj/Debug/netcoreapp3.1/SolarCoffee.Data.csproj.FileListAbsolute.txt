@@ -15,9 +15,9 @@ C:\CODE\SolarCoffee\sollarCoffee.BackEnd\SolarCoffee.Data\obj\Debug\netcoreapp3.
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\bin\Debug\netcoreapp3.1\SolarCoffee.Data.deps.json
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\bin\Debug\netcoreapp3.1\SolarCoffee.Data.dll
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\bin\Debug\netcoreapp3.1\SolarCoffee.Data.pdb
-C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.csprojAssemblyReference.cache
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.AssemblyInfoInputs.cache
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.AssemblyInfo.cs
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.csproj.CoreCompileInputs.cache
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.dll
 C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.pdb
+C:\CODE\SolarCoffee\solarcoffee.backend\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.csprojAssemblyReference.cache
